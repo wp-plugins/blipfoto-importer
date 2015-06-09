@@ -38,6 +38,12 @@ See the [GitHub issues](https://github.com/lumpysimon/blipfoto-wordpress-importe
 
 ## Changelog
 
+### 1.2 (9th June 2015)
+
+* Fix post date bug
+* Set image title to match the entry title
+* Tested with WordPress 4.2.2
+
 ### 1.1.3 (18th March 2015)
 
 * More readme changes
